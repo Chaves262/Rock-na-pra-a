@@ -77,6 +77,7 @@ body {
 }
 #rodape h3 {
     font-size: 60px;
+    color: #FFD9B8;
 }
 #rodape .social-icons {
     display: flex; 
@@ -86,4 +87,5 @@ body {
 #rodape img {
     width: 100px;
     margin: 0 10px;
+
 }
